@@ -1,4 +1,6 @@
 Calculadora Simples
+
+
 Este é um projeto de uma calculadora simples em HTML, CSS e JavaScript.
 
 A calculadora permite ao usuário realizar operações básicas de adição, subtração, multiplicação e divisão, além de limpar o visor com o botão "C".
